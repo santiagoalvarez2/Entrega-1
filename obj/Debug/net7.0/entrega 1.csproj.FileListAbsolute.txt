@@ -1,0 +1,14 @@
+D:\C#\entrega 1\bin\Debug\net7.0\entrega 1.exe
+D:\C#\entrega 1\bin\Debug\net7.0\entrega 1.deps.json
+D:\C#\entrega 1\bin\Debug\net7.0\entrega 1.runtimeconfig.json
+D:\C#\entrega 1\bin\Debug\net7.0\entrega 1.dll
+D:\C#\entrega 1\bin\Debug\net7.0\entrega 1.pdb
+D:\C#\entrega 1\obj\Debug\net7.0\entrega 1.GeneratedMSBuildEditorConfig.editorconfig
+D:\C#\entrega 1\obj\Debug\net7.0\entrega 1.AssemblyInfoInputs.cache
+D:\C#\entrega 1\obj\Debug\net7.0\entrega 1.AssemblyInfo.cs
+D:\C#\entrega 1\obj\Debug\net7.0\entrega 1.csproj.CoreCompileInputs.cache
+D:\C#\entrega 1\obj\Debug\net7.0\entrega 1.dll
+D:\C#\entrega 1\obj\Debug\net7.0\refint\entrega 1.dll
+D:\C#\entrega 1\obj\Debug\net7.0\entrega 1.pdb
+D:\C#\entrega 1\obj\Debug\net7.0\entrega 1.genruntimeconfig.cache
+D:\C#\entrega 1\obj\Debug\net7.0\ref\entrega 1.dll
